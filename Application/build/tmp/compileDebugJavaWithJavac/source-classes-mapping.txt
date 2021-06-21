@@ -1,0 +1,45 @@
+com/example/android/fingerprintdialog/ListAdapterView.java
+ com.example.android.fingerprintdialog.ListAdapterView
+ com.example.android.fingerprintdialog.ListAdapterView$1
+com/example/android/fingerprintdialog/Administration.java
+ com.example.android.fingerprintdialog.Administration
+ com.example.android.fingerprintdialog.Administration$1
+com/example/android/fingerprintdialog/MainActivity.java
+ com.example.android.fingerprintdialog.MainActivity
+ com.example.android.fingerprintdialog.MainActivity$1
+ com.example.android.fingerprintdialog.MainActivity$2
+ com.example.android.fingerprintdialog.MainActivity$3
+ com.example.android.fingerprintdialog.MainActivity$4
+ com.example.android.fingerprintdialog.MainActivity$5
+ com.example.android.fingerprintdialog.MainActivity$6
+ com.example.android.fingerprintdialog.MainActivity$AdminButtonClickListener
+ com.example.android.fingerprintdialog.MainActivity$PurchaseButtonClickListener
+com/mdgarcia/android/utils/manager/FingerprintViewModel.java
+ com.mdgarcia.android.utils.manager.FingerprintViewModel
+com/mdgarcia/android/utils/repository/FingerprintRepository.java
+ com.mdgarcia.android.utils.repository.FingerprintRepository
+ com.mdgarcia.android.utils.repository.FingerprintRepository$1
+ com.mdgarcia.android.utils.repository.FingerprintRepository$2
+com/mdgarcia/android/utils/database/FingerprintDatabase.java
+ com.mdgarcia.android.utils.database.FingerprintDatabase
+com/example/android/fingerprintdialog/SettingsActivity.java
+ com.example.android.fingerprintdialog.SettingsActivity
+ com.example.android.fingerprintdialog.SettingsActivity$SettingsFragment
+com/example/android/fingerprintdialog/FingerprintUiHelper.java
+ com.example.android.fingerprintdialog.FingerprintUiHelper
+ com.example.android.fingerprintdialog.FingerprintUiHelper$1
+ com.example.android.fingerprintdialog.FingerprintUiHelper$2
+ com.example.android.fingerprintdialog.FingerprintUiHelper$Callback
+com/example/android/fingerprintdialog/BuildConfig.java
+ com.example.android.fingerprintdialog.BuildConfig
+com/mdgarcia/android/utils/model/Fingerprint.java
+ com.mdgarcia.android.utils.model.Fingerprint
+com/example/android/fingerprintdialog/FingerprintAuthenticationDialogFragment.java
+ com.example.android.fingerprintdialog.FingerprintAuthenticationDialogFragment
+ com.example.android.fingerprintdialog.FingerprintAuthenticationDialogFragment$1
+ com.example.android.fingerprintdialog.FingerprintAuthenticationDialogFragment$2
+ com.example.android.fingerprintdialog.FingerprintAuthenticationDialogFragment$Stage
+com/mdgarcia/android/utils/dao/FingerprintDao.java
+ com.mdgarcia.android.utils.dao.FingerprintDao
+com/mdgarcia/android/utils/manager/CustomFingerprintManager.java
+ com.mdgarcia.android.utils.manager.CustomFingerprintManager
